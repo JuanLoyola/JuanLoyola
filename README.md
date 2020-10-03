@@ -1,5 +1,6 @@
 <img  id="imagheader" src="https://github.com/JuanLoyola/JuanLoyola/blob/main/banner.png"> 
-<p> ES: Hola ! Bienvenido a mi perfil de GitHub, soy Juan Loyola. Un apasionado del mundo IT, me encuentro en constante aprendizaje sobre el desarrollo web. Actualmente podría decir que me gusta más el Front pero veremos que me depara el futuro. (Full-stack voy por vos)
+<p> ES: Hola ! Bienvenido a mi perfil de GitHub, soy Juan Loyola. Un apasionado del mundo IT, me encuentro en constante aprendizaje sobre el desarrollo web. <br>
+  Actualmente podría decir que me gusta más el Front pero veremos que me depara el futuro. (Full-stack voy por vos)
   
 </p>
 <p> EN: Hi there, I'm Juan Loyola, I'm from Argentina. Welcome to my Github profile.
