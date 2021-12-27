@@ -15,17 +15,22 @@
 <hr>
 <h2 align="center"> 🔭 <samp> Technologies </samp> </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SASS-239120?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-239120?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-323330?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SASS-323330?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/Vue.js-323330?style=for-the-badge&logo=vue.js&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Express-blue?style=for-the-badge&logo=Express&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-323330?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-323330?&style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-323330?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React.js-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <h2 align="center">MEVN Stack</h2>
+  <div align="center" style="display:flex; flex-flow: row wrap; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb&logoColor=8bc34a" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=Express&logoColor=8bc34a" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-gray?style=for-the-badge&logo=vue.js&logoColor=8bc34a" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=node.js&logoColor=8BC34A" />&nbsp;&nbsp;&nbsp;
+  </div>
 </p>
 
 <h2  align="center"><samp> 📫 Let's Connect! </samp></h2>
