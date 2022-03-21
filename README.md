@@ -15,15 +15,19 @@
 <hr>
 <h2 align="center"> 🔭 <samp> Technologies </samp> </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=orange" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-gray?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SASS-gray?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-  <br>
   <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-gray?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-gray?&style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postman-gray?&style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Git-gray?&style=for-the-badge&logo=git&logoColor=F7DF1E" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-gray?&style=for-the-badge&logo=jira&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-gray?&style=for-the-badge&logo=postman&logoColor=red" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React.js-gray?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Figma-gray?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Slack-gray?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <h2 align="center">MEVN Stack</h2>
   <div align="center" style="display:flex; flex-flow: row wrap; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/MongoDB-gray?style=for-the-badge&logo=mongodb&logoColor=8bc34a" />&nbsp;&nbsp;&nbsp;
