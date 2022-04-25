@@ -7,7 +7,7 @@ Front end developer & UI-UX Designer
 I am passionate about investigating how the hell things work
 
 * 🌍  I'm based in Buenos Aires, argentina.
-* 🖥️  See my portfolio at [My portfolio](http://https://juan-loyola.netlify.app)
+* 🖥️  See my portfolio at [My portfolio](https://juan-loyola.netlify.app)
 * ✉️  You can contact me at [juan.loyola1@hotmail.com](mailto:juan.loyola1@hotmail.com)
 * 🚀  I'm currently working on [Mailup](http://mailup.com)
 * 🧠  I'm learning React.js, MongoDB, Express, Node.js (MERN/MEVN STACK)
