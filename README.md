@@ -35,7 +35,17 @@ I am passionate about investigating how the hell things work
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/loyolajuan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/JuanLoyola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/loyolajuan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://codepen.io/Juan_Loyola" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/loyolajuan" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://portfolio-loyola.netlify.app/#" target="_blank" rel="noreferrer">
+    🚀
+  </a>
+</p>
 
 ### Badges
 
