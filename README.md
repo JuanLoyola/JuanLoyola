@@ -1,4 +1,4 @@
-Front-End Developer & UX-UI Designer
+Front-End Developer
 ------------------------------------
 
 I am passionate about investigating how the hell things work
