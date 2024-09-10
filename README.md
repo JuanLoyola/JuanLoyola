@@ -1,8 +1,6 @@
 Front-End Developer
 ------------------------------------
 
-I am passionate about investigating how the hell things work
-
 * Currently living in Buenos Aires, Argentina.
 * See my [Portfolio](https://portfolio-loyola.netlify.app)
 * I'm currently working [here](https://github.com/juanLoyolaSato) at [Satoshi Tango](https://www.satoshitango.com/)
