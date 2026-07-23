@@ -1,1 +1,1 @@
-Software Engineer
+Software Engineer, I like to learn how things work.
